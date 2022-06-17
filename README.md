@@ -25,6 +25,7 @@ http://localhost:8080/
 
 运行程序前需要打开mysql服务器和redis服务器
 
+虽然包含很多JavaScript的东西，但是那些都不需要我们自己编写！
 
 ## 效果
 
