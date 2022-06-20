@@ -16,6 +16,8 @@ mysql 8.0
 
 redis 3.2
 
+mybatis
+
 ## 访问路径
 端口号：8080
 
